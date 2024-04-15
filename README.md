@@ -29,3 +29,6 @@ Aqui temos um botão que quando você clicar nele te direcionara para um site on
 Nessa pagina temos uma explicação da historia do jogo.<br>
 
 ![image](https://github.com/MatheusSeabra/Frogger/assets/101134295/fdd6135f-0d1c-41b6-809f-2f17e7c65dd8)<br>
+
+
+Utilizaremos os Widgets: Basics, Container class, Text e Imagens.<br>
