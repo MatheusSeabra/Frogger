@@ -32,3 +32,6 @@ Nessa pagina temos uma explicação da historia do jogo.<br>
 
 
 Utilizaremos os Widgets: Basics, Container class, Text e Imagens.<br>
+Usamos o Container class para cirar o botão do aplicativo
+Usamos o Text para escrever no aplicativo e conseguir explica sobre o jogo
+Usamos o Imagens para demonstrar imagens do jogo e ficar com um visual melhor
