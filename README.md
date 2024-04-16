@@ -32,10 +32,10 @@ Nessa pagina temos uma explicação da historia do jogo.<br>
 
 
 Utilizaremos os Widgets: Basics, Container class, Text e Imagens.<br>
-Usamos o Container class para cirar o botão do aplicativo
-Usamos o Text para escrever no aplicativo e conseguir explica sobre o jogo
-Usamos o Imagens para demonstrar imagens do jogo e ficar com um visual melhor
+Usamos o Container class para cirar o botão do aplicativo<br>
+Usamos o Text para escrever no aplicativo e conseguir explica sobre o jogo<br>
+Usamos o Imagens para demonstrar imagens do jogo e ficar com um visual melhor<br>
 
-Fluxograma das telas
-![image](https://github.com/MatheusSeabra/Frogger/assets/101134295/4c9a4c67-656f-4b15-b678-eb99009ec599)
+Fluxograma das telas<br>
+![image](https://github.com/MatheusSeabra/Frogger/assets/101134295/4c9a4c67-656f-4b15-b678-eb99009ec599)<br>
 
