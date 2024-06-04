@@ -41,9 +41,9 @@ Usamos o Imagens para demonstrar imagens do jogo e ficar com um visual melhor<br
 
 
 # Wiki
--[ Inicio ](https://github.com/MatheusSeabra/Frogger/wiki/Inicio)
--[ Historia](https://github.com/MatheusSeabra/Frogger/wiki/Historia)
--[ GamePlay ](https://github.com/MatheusSeabra/Frogger/wiki/Gameplay)
--[ Mecânicas ](https://github.com/MatheusSeabra/Frogger/wiki/Mecânicas)
+-[ Inicio ](https://github.com/MatheusSeabra/Frogger/wiki/Inicio)<br>
+-[ Historia](https://github.com/MatheusSeabra/Frogger/wiki/Historia)<br>
+-[ GamePlay ](https://github.com/MatheusSeabra/Frogger/wiki/Gameplay)<br>
+-[ Mecânicas ](https://github.com/MatheusSeabra/Frogger/wiki/Mecânicas)<br>
 
 
