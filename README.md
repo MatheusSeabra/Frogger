@@ -1,7 +1,7 @@
 # Frogger
-Alunos: Matheus Seabra, Erick Felipe Mendes Galvez<br>
+Alunos: Matheus Seabra<br>
 
-Trabalho: https://www.canva.com/design/DAGBfiM0VQM/kghJkwItpufsVG7VmRISzA/edit?clickId=2CD1ZBXCFxyPRbBRXFUbzwgsUkHWVvSW9w4gwE0&irgwc=1 <br>
+
 
 Está aqui é a tela inicial do aplicativo, onde mostra o personagem do jogo.<br>
 ![image](https://github.com/MatheusSeabra/Frogger/assets/101134295/98bd7fd5-357a-480a-8650-34c2230785b7)<br>
